@@ -1,0 +1,10 @@
+<tree>
+  <node caption="Node 1" url="about:blank" target="other" icon="img/folder.gif"/>
+  <node caption="Node 2" url="about:blank" target="other" icon="img/folder.gif"/>
+  <node caption="Node 3" url="about:blank" target="other" icon="img/folder.gif">
+  	<node caption="Node 31" url="about:blank" target="other" icon="img/folder.gif"/>
+  	<node caption="Node 32" url="about:blank" target="other" icon="img/folder.gif"/>
+  </node>
+  <node caption="Node 4" url="about:blank" target="other" icon="img/folder.gif" retreiveUrl="tree2.xml"/>
+  <node caption="Node 5" url="about:blank" target="other" icon="img/folder.gif"/>
+</tree>
